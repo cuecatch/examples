@@ -1,8 +1,8 @@
-# SurveyCompo Examples
+# CueCatch Examples
 
-This repository contains examples for SurveyCompo.
+This repository contains examples for CueCatch.
 
-[Browse the examples](https://surveycompo.github.io/examples/) for more information on how to use SurveyCompo.
+[Browse the examples](https://cuecatch.github.io/examples/) for more information on how to use CueCatch.
 
 ## Running the examples locally
 

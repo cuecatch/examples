@@ -1,4 +1,5 @@
 {
+  "$schema": "https://cuecatch.com/schemas/survey.schema.json",
   "name": "Customization",
   "theme": {
     "primaryColor": "#0b703f",
@@ -10,17 +11,17 @@
   "css": "#mylogo { width: 10em; display: inline;}",
   "startScreens": [
     {
-      "header": "Your Feedback on SurveyCompo",
-      "description": "Share your thoughts and shape the future of SurveyCompo!",
+      "header": "Your Feedback on CueCatch",
+      "description": "Share your thoughts and shape the future of CueCatch!",
       "okButtonLabel": "Start Survey",
-      "htmlFooter": "Powered by <img id='mylogo' src='https://www.surveycompo.com/logos/title-dark.min.svg' />"
+      "htmlFooter": "Powered by <img id='mylogo' src='https://cuecatch.com/images/logo.png' />"
     }
   ],
   "pages": [
     {
       "blocks": [
         {
-          "title": "Which features of SurveyCompo do you use most frequently?",
+          "title": "Which features of CueCatch do you use most frequently?",
           "subtitle": "Check all that apply",
           "inputs": [
             {
@@ -50,7 +51,7 @@
     {
       "blocks": [
         {
-          "title": "How did you first hear about SurveyCompo?",
+          "title": "How did you first hear about CueCatch?",
           "inputs": [
             {
               "type": "RADIO",
@@ -75,7 +76,7 @@
     {
       "blocks": [
         {
-          "title": "How likely are you to recommend SurveyCompo to a friend or colleague?",
+          "title": "How likely are you to recommend CueCatch to a friend or colleague?",
           "inputs": [
             {
               "type": "NUMBER_SCALE",
@@ -91,7 +92,7 @@
     {
       "blocks": [
         {
-          "title": "Which of these images best represents your experience with SurveyCompo?",
+          "title": "Which of these images best represents your experience with CueCatch?",
           "layoutColumnCount": 0,
           "layoutColumnWidth": "70px",
           "layoutColumnGap": "1em",
@@ -99,31 +100,31 @@
           "inputs": [
             {
               "type": "IMAGE",
-              "imageInputSrc": "https://surveycompo.github.io/examples/images/face-laughing.svg",
+              "imageInputSrc": "https://cuecatch.github.io/examples/images/face-laughing.svg",
               "imageInputNoBorder": true,
               "label": "Excellent"
             },
             {
               "type": "IMAGE",
-              "imageInputSrc": "https://surveycompo.github.io/examples/images/face-smile.svg",
+              "imageInputSrc": "https://cuecatch.github.io/examples/images/face-smile.svg",
               "imageInputNoBorder": true,
               "label": "Good"
             },
             {
               "type": "IMAGE",
-              "imageInputSrc": "https://surveycompo.github.io/examples/images/face-neutral.svg",
+              "imageInputSrc": "https://cuecatch.github.io/examples/images/face-neutral.svg",
               "imageInputNoBorder": true,
               "label": "Average"
             },
             {
               "type": "IMAGE",
-              "imageInputSrc": "https://surveycompo.github.io/examples/images/face-frown.svg",
+              "imageInputSrc": "https://cuecatch.github.io/examples/images/face-frown.svg",
               "imageInputNoBorder": true,
               "label": "Bad"
             },
             {
               "type": "IMAGE",
-              "imageInputSrc": "https://surveycompo.github.io/examples/images/face-angry.svg",
+              "imageInputSrc": "https://cuecatch.github.io/examples/images/face-angry.svg",
               "imageInputNoBorder": true,
               "label": "terrible"
             }
@@ -134,7 +135,7 @@
     {
       "blocks": [
         {
-          "title": "Please rate the following aspects of SurveyCompo.",
+          "title": "Please rate the following aspects of CueCatch.",
           "inputs": [
             {
               "type": "STAR_SCALE",
@@ -161,7 +162,7 @@
     {
       "blocks": [
         {
-          "title": "Overall, how satisfied are you with SurveyCompo?",
+          "title": "Overall, how satisfied are you with CueCatch?",
           "inputs": [
             {
               "type": "LIKERT_SCALE",
@@ -174,7 +175,7 @@
     {
       "blocks": [
         {
-          "title": "Please rate your satisfaction with the following aspects of SurveyCompo",
+          "title": "Please rate your satisfaction with the following aspects of CueCatch",
           "inputs": [
             {
               "type": "LIKERT_SCALE",
@@ -203,7 +204,7 @@
     {
       "blocks": [
         {
-          "title": "How often do you use SurveyCompo?",
+          "title": "How often do you use CueCatch?",
           "inputs": [
             {
               "type": "DROPDOWN",
@@ -222,7 +223,7 @@
     {
       "blocks": [
         {
-          "title": " Please share any additional comments or suggestions you have about SurveyCompo:",
+          "title": " Please share any additional comments or suggestions you have about CueCatch:",
           "inputs": [
             {
               "type": "TEXTAREA"
@@ -234,7 +235,7 @@
     {
       "blocks": [
         {
-          "title": "Would you like to receive updates about SurveyCompo?",
+          "title": "Would you like to receive updates about CueCatch?",
           "inputs": [
             {
               "type": "TOGGLE",

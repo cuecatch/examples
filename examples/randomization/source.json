@@ -1,4 +1,5 @@
 {
+  "$schema": "https://cuecatch.com/schemas/survey.schema.json",
   "name": "Randomization",
   "uiSettings": {
     "showCloseButton": true
