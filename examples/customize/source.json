@@ -13,8 +13,7 @@
     {
       "header": "Your Feedback on CueCatch",
       "description": "Share your thoughts and shape the future of CueCatch!",
-      "okButtonLabel": "Start Survey",
-      "htmlFooter": "Powered by <img id='mylogo' src='https://cuecatch.com/images/logo.png' />"
+      "okButtonLabel": "Start Survey"
     }
   ],
   "pages": [
